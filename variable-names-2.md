@@ -19,3 +19,11 @@ parallelTasks
 artifact
 
 tree
+
+## 6.3
+
+Класс File у которого могут быть атрибуты size, path, ext
+
+Класс LinkedList у которого могут быть атрибуты head, tail
+
+Функция sum у который есть два аргумента operator1, operator2
