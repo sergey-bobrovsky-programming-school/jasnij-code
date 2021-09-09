@@ -27,3 +27,15 @@ tree
 Класс LinkedList у которого могут быть атрибуты head, tail
 
 Функция sum у который есть два аргумента operator1, operator2
+
+## 6.4
+
+size - stackSize // размер стэка
+
+length - filterLength // длина фильтра
+
+parts - wordLetters // буквы слова
+
+index - listIndex // индекс списка
+
+slots - visitedSlots // посещенные слоты
