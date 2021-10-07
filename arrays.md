@@ -3,6 +3,7 @@ const devices = [] - const devices = new Set(); // для хранения сп�
 const groupId = groupResponse.data.value[0].id; 
 
 |
+
 v
 
 const groups = groupResponse.data.value.values();
@@ -16,6 +17,7 @@ if (!response || response[0].statusCode != 202) {
 }
 
 |
+
 v
 
 const responses = response[Symbol.iterator]();
@@ -36,6 +38,7 @@ for (let i = 0; i < data.length; i =+ 1) {
 }
 
 |
+
 v
 
 const iterator = data[Symbol.iterator]();
